@@ -3,6 +3,8 @@ package com.java.Stringmanipulations;
 public class Stringdemo {
 
 	public static void main(String[] args) {
+		
+		//add test
 
 		String str = "Hello How are Hyou";
 
