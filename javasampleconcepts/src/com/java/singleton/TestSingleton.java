@@ -4,7 +4,7 @@ public class TestSingleton {
 
 	public static void main(String[] args) 
 	{
-		
+		//generating some statements
 		Singleton Singletonref1=Singleton.getinstance();
 		Singleton Singletonref2=Singleton.getinstance();
 		
