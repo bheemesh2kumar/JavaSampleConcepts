@@ -8,6 +8,9 @@ public class TestEmployee {
 
 		Employee1.setGrade(4);
 		Employee1.setSalary(50000);
+		
+		
+		System.out.println("prignting values");
 
 		System.out.println(Employee1.empid + " " + Employee1.empName + " " + Employee1.getSalary() + " " + Employee1.grade);
 
